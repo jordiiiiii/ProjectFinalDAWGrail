@@ -9,7 +9,7 @@ Imatge i utilitat.
 * **[3] [Instalació](#instalació-)**
 	* **[3.1] [Frontend](#frontend)**
 	* **[3.2] [Backend](#backend)**
-* **[4]  [Autors](#autors-%EF%B8%8F-)**
+* **[4]  [Autor](#autors-%EF%B8%8F-)**
 
 ## Resum 📋
 
