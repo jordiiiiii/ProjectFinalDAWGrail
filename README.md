@@ -10,8 +10,7 @@ Imatge i utilitat.
 * **[3] [Instalació](#instalació-)**
 	* **[3.1] [Frontend](#frontend)**
 	* **[3.2] [Backend](#backend)**
-* **[4] [Autor](#autor)**
-* **[4]  [Autor](#autor-%EF%B8%8F-)**
+* **[4] [Autor](#autor-)**
 
 ## Resum 📋
 
@@ -34,8 +33,6 @@ La app es divideix en dues parts; aquestes son: la part de _frontend_ i la part 
 ### Frontend
 
 ### Backend
-
-## Autor 💻
 
 ## Autor ✒️
 
