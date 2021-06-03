@@ -8,7 +8,7 @@ Imatge i utilitat.
 * ** [Estructura del projecte](#estructura-del-projecte-)**
 * ** [Instalació](#instalació-)**
 	* ** [Frontend](#frontend)**
-	* ** [Backend](backend)**
+	* ** [Backend](#backend)**
 * ** [Autor](#autor-)**
 
 ## Resum 📋
