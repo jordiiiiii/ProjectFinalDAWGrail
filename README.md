@@ -18,6 +18,12 @@ El projecte esta dividit en dues parts, BackEnd i FrontEnd:
 
 **Pàgina web de Grail:** https://grail-nuxt.herokuapp.com/  
 
+## Autor ✒️
+
+- **Jordi GN**   
+-- a18jorgornei@inpedralbes.cat   
+-- https://github.com/jordiiiiii  
+
 ## Estructura del projecte 📐
 
 La app es divideix en dues parts; aquestes son: la part de _frontend_ i la part de _backend_.
@@ -34,9 +40,5 @@ La app es divideix en dues parts; aquestes son: la part de _frontend_ i la part 
 
 ### Backend
 
-## Autor ✒️
 
-- **Jordi GN**   
--- a18jorgornei@inpedralbes.cat   
--- https://github.com/jordiiiiii  
 
