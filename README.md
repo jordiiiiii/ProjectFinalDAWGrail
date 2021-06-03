@@ -5,7 +5,6 @@ Imatge i utilitat.
 
 ### _Index:_
 * **[1] [Resum](#resum-)**
-* * **[1] [Autor](#autor-)**
 * **[2] [Estructura del projecte](#estructura-del-projecte-)**
 * **[3] [Instalació](#instalació-)**
 	* **[3.1] [Frontend](#frontend)**
