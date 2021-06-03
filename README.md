@@ -9,7 +9,7 @@ Imatge i utilitat.
 * **[3] [Instalació](#instalació-)**
 	* **[3.1] [Frontend](#frontend)**
 	* **[3.2] [Backend](#backend)**
-* **[4]  [Autor](autor-%EF%B8%8F-)**
+* **[4]  [Autor](#autor-)**
 
 ## Resum 📋
 
@@ -19,7 +19,7 @@ El projecte esta dividit en dues parts, BackEnd i FrontEnd:
 
 ## Estructura del projecte 📐
 
-La app es divideix en dues parts; aquestes son: la part de _frontend_ i la parte de _backend_.
+La app es divideix en dues parts; aquestes son: la part de _frontend_ i la part de _backend_.
 
 - **[Frontend:](./frontend "Frontend folder")**  
 
