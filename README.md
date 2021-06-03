@@ -4,12 +4,12 @@ Web Grail CyberTech:
 Imatge i utilitat.     
 
 ### _Index:_
-* **[1] [Resum](#resum-)**
-* **[2] [Estructura del projecte](#estructura-del-projecte-)**
-* **[3] [Instalació](#instalació-)**
-	* **[3.1] [Frontend](#frontend)**
-	* **[3.2] [Backend](#backend)**
-* **[4] [Autor](#autor-)**
+* ** [Resum](#resum-)**
+* ** [Estructura del projecte](#estructura-del-projecte-)**
+* ** [Instalació](#instalació-)**
+	* ** [Frontend](#frontend)**
+	* ** [Backend](backend)**
+* ** [Autor](#autor-)**
 
 ## Resum 📋
 
