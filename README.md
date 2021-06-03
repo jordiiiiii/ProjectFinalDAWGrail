@@ -35,6 +35,8 @@ La app es divideix en dues parts; aquestes son: la part de _frontend_ i la part 
 
 ### Backend
 
+## Autor 💻
+
 ## Autor ✒️
 
 - **Jordi GN**   
